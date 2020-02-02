@@ -43,7 +43,7 @@ Similar to [npm](https://www.npmjs.com/). As this package manager is recommended
 
 ## Status
 
-![Week 1 Project](https://github.com/HackYourFutureBelgium/React/workflows/week-1-project/badge.svg)
+![Week 1 ![week-1-project](https://github.com/ldealmei/React/workflows/week-1-project/badge.svg)](https://github.com/HackYourFutureBelgium/React/workflows/week-1-project/badge.svg)
 
 ![Week 2 Project](https://github.com/HackYourFutureBelgium/React/workflows/week-2-project/badge.svg)
 
