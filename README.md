@@ -14,8 +14,22 @@
 
 ## Weekly Projects
 
+Each week there will be 2 projects: 
+
+### Pass the tests in this repo:
+
 The structure of a weekly projects is that of a [create-react-app](https://create-react-app.dev/). This is boilerplate, a set of tools and a predefined structure to start writing React fast.
 The first project ([week-1-project](./week-1-project)) will teach you all about how it works.
+
+### Follow a tutorial and submit a new repo:
+
+__Week 1 Tutorial__: [a weather app]( https://www.youtube.com/watch?v=204C9yNeOYI)
+
+
+## Week 4 and 5
+
+We will make a tiny group project encorporating all the things we learned in the previous weeks.
+More info soon...
 
 ## Getting Started
 
@@ -47,7 +61,3 @@ Similar to [npm](https://www.npmjs.com/). As this package manager is recommended
 ![Week 2 Project](https://github.com/HackYourFutureBelgium/React/workflows/week-2-project/badge.svg)
 
 ![Week 3 Project](https://github.com/HackYourFutureBelgium/React/workflows/week-3-project/badge.svg) 
-
-![Week 4 Project](https://github.com/HackYourFutureBelgium/React/workflows/week-4-project/badge.svg)
-
-![Week 5 Project](https://github.com/HackYourFutureBelgium/React/workflows/week-5-project/badge.svg)

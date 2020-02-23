@@ -167,5 +167,23 @@ test('Passing functions as props: part 2', async () => {
 
     const element = await getByTestId('reading-length');
 
+<<<<<<< HEAD
     expect(element.innerHTML).toEqual('Reading all article will take you 2 minute(s)');
+=======
+    // Can you figure out how this code is supposed to work ?
+    // The function from the props is being called in a somewhat complicated way.
+    // Figure out what is happening and what an appropriate fix would be.
+    // You will only need to modify calculateReadingLength above\
+
+    expect(element.innerHTML).toEqual('Reading all article will take you 2 minutes');
+});
+
+test('BONUS, I have solved the warning about the unique key', async () => {
+
+    // When you run the test you might have noticed this warning "Warning: Each child in a list should have a unique "key" prop."
+    // Can you solve the problem ?
+
+    const iSolvedTheProblem = false;
+    expect(iSolvedTheProblem).toBeTruthy();
+>>>>>>> 845556c816eb18b0a88c8e1f214d2eefa6788a30
 });
